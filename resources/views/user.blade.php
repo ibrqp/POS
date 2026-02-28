@@ -5,5 +5,5 @@
     <p>ID User: {{ $id }}</p>
     <p>Nama User: {{ $name }}</p>
 </body>
-
+//ubah
 </html>
