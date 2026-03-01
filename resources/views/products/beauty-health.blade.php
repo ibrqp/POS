@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>Category : {{ $category }}</h1>
-
+//ubah
 </body>
 </html>
