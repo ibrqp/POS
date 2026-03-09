@@ -1,3 +1,4 @@
+{{-- Halaman Kategori --}}
 <!DOCTYPE html>
 <html lang="en">
 
