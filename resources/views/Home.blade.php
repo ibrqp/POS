@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 {{-- Halaman Home --}}
+=======
+//testing
+
+>>>>>>> c84b46beb9c0ff44ce26926d8e902ca55c0e4c95
 <!DOCTYPE html>
 <html lang="en">
 <head>
