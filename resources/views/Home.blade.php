@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 {{-- Halaman Home --}}
+{{-- Halaman Home --}}
 =======
 //testing
 
